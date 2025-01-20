@@ -1,5 +1,4 @@
 #include <iostream>
-# define main_0114
 
 #ifdef main_0114
 int main() {
